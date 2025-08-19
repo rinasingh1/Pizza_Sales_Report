@@ -46,6 +46,17 @@ These KPIs provide insight into overall sales performance, customer ordering beh
 
 •	Lowest-Selling Pizza: Brie Carre Pizza has the least number of orders, indicating lower customer preference.
 
+Conclusion 
+The analysis provides a clear view of the pizza company's performance, customer behavior, and operational trends. Key findings include peak and ordering times, highest sales, the top seller, the most popular item. This results can help management optimize inventory, plan promotions, allocate resources effectively, and maximise profitability.
+
+
+
+
+
+
+
+
+
 
 
 
