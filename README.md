@@ -1,6 +1,6 @@
 # Pizza_Sales_Report
 ## Objective
-The objective of this report is to analyze the sales and revenue of the pizza company, track order times and customer patterns, and provide actionable insights to optimize operations and improve business performance.
+The objective of this report is to analyze the sales and revenue of the pizza company, track order times and customer purchasing patterns, and provide actionable insights to optimize operations and improve business performance.
 
 ## Performed data cleaning and Processing 
 <br>
