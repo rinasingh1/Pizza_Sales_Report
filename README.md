@@ -26,6 +26,10 @@ using Find & Replace and Text functions to standardize and correct dataset incon
 These KPIs provide insights into overall sales performance, customer ordering behavior, and revenue generation, helping management make informed business decisions.
 <br>
 
+## Dashboard
+<img width="1978" height="1125" alt="image" src="https://github.com/user-attachments/assets/04ce8b10-9b8e-40c6-8efd-c623033c4692" />
+
+
 ## Project Insights
 <br>
 
@@ -49,6 +53,8 @@ These KPIs provide insights into overall sales performance, customer ordering be
 ## Conclusion 
 <br>
 The analysis provides a clear view of the pizza company's performance, customer behavior, and operational trends. Key findings include peak and ordering times, highest sales, the top seller, the most popular item. This results can help management optimize inventory, plan promotions, allocate resources effectively, and maximise profitability.
+
+
 
 
 
