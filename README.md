@@ -23,7 +23,7 @@ using Find & Replace and Text functions to standardize and correct dataset incon
 
 •	Average Pizzas per Order: 2.32
 
-These KPIs provide insight into overall sales performance, customer ordering behavior, and revenue generation, helping management make informed business decisions.
+These KPIs provide insights into overall sales performance, customer ordering behavior, and revenue generation, helping management make informed business decisions.
 <br>
 
 ## Project Insights
